@@ -40,7 +40,7 @@ Los estudiantes editan esta sección para agregar sus nombres, correos electrón
 
 1. Adrian Felipe Olarte Barreto,a.olarteb2@uniandes.edu.co, Desarrollador.
 1. Paula Katherine Garzon Mora, p.garzonmquniandes.edu.co, Desarrollador.
-1. Julian Guillermo Echeverry Alarcon, j.echeverrya@uniandes.edu.co, Desarrollador.
+1. Julian Guillermo Echeverry Alarcon, j.echeverrya@uniandes.edu.co, Desarrollador. ola
 
 [Volver al inicio](#laboratorio-1)
 
